@@ -117,24 +117,24 @@ const products = [
     heartNotes: 'Jasmine, Lily',
     baseNotes: 'Vanilla, Sandalwood',
     projection: 80
-  },
-  {
-    id: 'black-amber',
-    name: 'Black Amber',
-    category: 'Luxury Collection',
-    badge: 'Luxury',
-    badgeClass: '',
-    image: 'Pics/2-duo.jpeg',
-    price: 16500,
-    oldPrice: null,
-    reviews: 65,
-    shortDesc: 'Rich amber fragrance with powerful long-lasting premium aroma.',
-    modalBadge: 'Rich & Powerful',
-    topNotes: 'Amber, Bergamot',
-    heartNotes: 'Oud, Spicy Notes',
-    baseNotes: 'Patchouli, Dark Musk',
-    projection: 90
-  }
+  // },
+  // {
+  //   id: 'black-amber',
+  //   name: 'Black Amber',
+  //   category: 'Luxury Collection',
+  //   badge: 'Luxury',
+  //   badgeClass: '',
+  //   image: 'Pics/2-duo.jpeg',
+  //   price: 16500,
+  //   oldPrice: null,
+  //   reviews: 65,
+  //   shortDesc: 'Rich amber fragrance with powerful long-lasting premium aroma.',
+  //   modalBadge: 'Rich & Powerful',
+  //   topNotes: 'Amber, Bergamot',
+  //   heartNotes: 'Oud, Spicy Notes',
+  //   baseNotes: 'Patchouli, Dark Musk',
+  //   projection: 90
+  // }
 ];
 
 if (typeof module !== 'undefined' && module.exports) {
