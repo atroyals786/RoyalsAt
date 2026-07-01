@@ -117,8 +117,8 @@ const products = [
     heartNotes: 'Jasmine, Lily',
     baseNotes: 'Vanilla, Sandalwood',
     projection: 80
-  // },
-  // {
+  }
+    // {
   //   id: 'black-amber',
   //   name: 'Black Amber',
   //   category: 'Luxury Collection',
